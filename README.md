@@ -1,6 +1,8 @@
 # verisure2mqtt_gateway
 An ESP32 mqtt gateway for verisure RF sensors (opening detectors and PIRs)
 
+<img width="529" height="396" alt="ES700MGLS" src="https://github.com/user-attachments/assets/c46fac01-eb66-44f0-ba6c-bfdb413fc3fb" />
+
 Need a ESP32 Dev Module and a CC1101 RF Transceiver Module
 <img width="470" height="296" alt="cc1101_esp32" src="https://github.com/user-attachments/assets/1f3d005a-41c3-4959-96b2-9e9e6f2f9b0c" />
 
