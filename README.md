@@ -1,5 +1,6 @@
 # verisure2mqtt_gateway
 An ESP32 mqtt gateway for verisure RF sensors (opening detectors and PIRs)
+
 Tested on MicroPython v1.27.0 on 2025-12-09; Generic ESP32 module with ESP32
 
 <img width="529" height="396" alt="ES700MGLS" src="https://github.com/user-attachments/assets/c46fac01-eb66-44f0-ba6c-bfdb413fc3fb" />
